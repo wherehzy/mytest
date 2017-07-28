@@ -7,5 +7,6 @@ import com.cmrh.gnc.test.InceptTest;
 public class Mytest {
     public static void  main(){
         System.out.print("123");
+        System.out.print("git dev");
     }
 }
